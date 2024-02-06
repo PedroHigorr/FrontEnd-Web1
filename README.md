@@ -37,4 +37,4 @@ git commit -m "mensagem do commit"
 
 git push
 
-```git push -u origin master
+```
