@@ -6,7 +6,6 @@
 //Inicializar o Git em uma nova pasta
 
 git init 
-
 ```
 
 ```
@@ -14,7 +13,6 @@ git init
 
 git config --global user.name "Pedro Higor"
 git congif --global user.email "pedro.higor92@gmail.com"
-
 ```
 
 ```
@@ -29,12 +27,10 @@ git config --list
 git status 
 git add .
 git commit -m "mensagem do commit"
-
 ````
 
 ```
 //publicar um commit
 
 git push
-
 ```
